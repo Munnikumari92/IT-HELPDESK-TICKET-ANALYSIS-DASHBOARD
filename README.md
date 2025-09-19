@@ -1,6 +1,7 @@
 # IT-HELPDESK-TICKET-ANALYSIS-DASHBOARD
 
 #Table of Contents :
+
 Problem Statement
 Data Gathering / Requirement
 Data Perparation
@@ -11,6 +12,7 @@ Dashboard
 Tools, Software
 
 🎯 Problem Statement :
+
 We have gathered data from various sources, including sales data, product information, geography, sales representatives, and categories. The task involves data gathering, data modeling, DAX calculations, and creating visuals for the dashboard.
 
 In this challenge, you are presented with a reliable dataset that shows the IT ticket data and Agents’ profiles for a fictitious company that you work for. You will provide your actionable insight into your organization's trends, usage patterns, systems behaviours, service level agreement etc. It will help our IT department to stay up to date with industry developments. We have gathered data from various sources, including IT Agents and Tickets. The task involves data gathering, data modeling, DAX calculations, and creating visuals for the dashboard.
