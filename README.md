@@ -2,13 +2,13 @@
 
 #Table of Contents :
 
-Problem Statement
-Data Gathering / Requirement
-Data Perparation
-Data Modelling
-Data Analysis Expression (DAX) Calculation
-Report
-Dashboard
+Problem Statement,
+Data Gathering / Requirement,
+Data Perparation,
+Data Modelling,
+Data Analysis Expression (DAX) Calculation,
+Report,
+Dashboard,
 Tools, Software
 
 🎯 Problem Statement :
