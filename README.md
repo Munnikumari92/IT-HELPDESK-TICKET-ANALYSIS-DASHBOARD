@@ -35,13 +35,10 @@ The Dataset used for this challenge was presented by FP20 Challenges and Diversi
 
 IT Tickets and Agents Table
 
-Data Gathering / Requirement:
+# Data Gathering / Requirement:
 The Dataset used for this challenge was presented by FP20 Challenges and Diversity and Inclusion dataset:
 
-Dataset:
-
-IT Tickets and Agents Table
-Data Preparation:
+# Data Preparation:
 Completed the Data transformation in Power Query and the dataset was loaded into Microsoft Power BI Desktop for modeling.
 
 IT Tickets and Agents dataset is given table named:
@@ -49,12 +46,12 @@ IT Tickets and Agents dataset is given table named:
 IT Tickets which has 97499 rows and 10 Column of observation.
 IT Agents which has 50 rows and 8 Column of observation.
 
-Data Modelling:
+# Data Modelling:
 Then dataset was cleaned and transformed, it was ready for data modeled.
 
-Data Analysis Expression (DAX) Calculation 
+# Data Analysis Expression (DAX) Calculation 
 
-Tools, Software :
+# Tools, Software :
 Power BI
 
 Power Query Editor
