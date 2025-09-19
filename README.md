@@ -1,6 +1,6 @@
 # IT-HELPDESK-TICKET-ANALYSIS-DASHBOARD
 
-#Table of Contents :-
+# Table of Contents :-
 
 Problem Statement,
 Data Gathering / Requirement,
@@ -11,7 +11,7 @@ Report,
 Dashboard,
 Tools, Software
 
-🎯 Problem Statement :
+#  Problem Statement :
 
 We have gathered data from various sources, including sales data, product information, geography, sales representatives, and categories. The task involves data gathering, data modeling, DAX calculations, and creating visuals for the dashboard.
 
@@ -31,7 +31,7 @@ The client would also like to know the Age of the Agents from the Agents' DOB to
 Data Gathering / Requirement:
 The Dataset used for this challenge was presented by FP20 Challenges and Diversity and Inclusion dataset:
 
-Dataset:
+# Dataset:
 
 IT Tickets and Agents Table
 
