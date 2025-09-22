@@ -48,6 +48,9 @@ Then dataset was cleaned and transformed, it was ready for data modeled.
 
 # Data Analysis Expression (DAX) Calculation 
 
+# Report
+<img width="2000" height="1146" alt="image" src="https://github.com/user-attachments/assets/407b1ad8-bb6a-4635-8bb8-3ab9e311acc6" />
+
 # Tools, Software :
 Power BI
 
