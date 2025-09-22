@@ -50,6 +50,8 @@ Then dataset was cleaned and transformed, it was ready for data modeled.
 
 # Report:
 <img width="2000" height="1146" alt="image" src="https://github.com/user-attachments/assets/407b1ad8-bb6a-4635-8bb8-3ab9e311acc6" />
+<img width="2000" height="1146" alt="image" src="https://github.com/user-attachments/assets/cde79d7c-70e1-43e9-bb73-6a3b65d27f32" />
+
 
 # Tools, Software :
 Power BI
